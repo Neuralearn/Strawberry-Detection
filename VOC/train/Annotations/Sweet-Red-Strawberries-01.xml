@@ -1,0 +1,1 @@
+<annotation><filename>Sweet-Red-Strawberries-01.jpg</filename><size><width>1080</width><height>720</height><depth>3</depth></size><object><name>ripe</name><bndbox><xmin>271</xmin><ymin>258</ymin><xmax>419</xmax><ymax>472</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>165</xmin><ymin>363</ymin><xmax>321</xmax><ymax>564</ymax></bndbox></object></annotation>

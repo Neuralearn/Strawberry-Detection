@@ -1,0 +1,1 @@
+<annotation><filename>9ffb3d5a1366cba26309758e9ddefb41.jpg</filename><size><width>236</width><height>357</height><depth>3</depth></size><object><name>unripe</name><bndbox><xmin>105</xmin><ymin>193</ymin><xmax>197</xmax><ymax>334</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>36</xmin><ymin>92</ymin><xmax>201</xmax><ymax>311</ymax></bndbox></object></annotation>

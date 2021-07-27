@@ -1,0 +1,1 @@
+<annotation><filename>im31.jpg</filename><size><width>259</width><height>194</height><depth>3</depth></size><object><name>unripe</name><bndbox><xmin>199</xmin><ymin>77</ymin><xmax>261</xmax><ymax>165</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>76</xmin><ymin>53</ymin><xmax>186</xmax><ymax>160</ymax></bndbox></object></annotation>

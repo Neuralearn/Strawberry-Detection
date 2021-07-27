@@ -1,0 +1,1 @@
+<annotation><filename>tasty-strawberries.jpg</filename><size><width>1024</width><height>1024</height><depth>3</depth></size><object><name>ripe</name><bndbox><xmin>528</xmin><ymin>354</ymin><xmax>883</xmax><ymax>759</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>158</xmin><ymin>234</ymin><xmax>544</xmax><ymax>677</ymax></bndbox></object></annotation>

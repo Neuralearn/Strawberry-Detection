@@ -1,0 +1,1 @@
+<annotation><filename>chicken-strawberries-market-055.jpg</filename><size><width>1024</width><height>768</height><depth>3</depth></size><object><name>unripe</name><bndbox><xmin>662</xmin><ymin>334</ymin><xmax>848</xmax><ymax>579</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>196</xmin><ymin>194</ymin><xmax>697</xmax><ymax>670</ymax></bndbox></object></annotation>

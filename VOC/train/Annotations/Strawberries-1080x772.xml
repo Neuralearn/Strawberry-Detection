@@ -1,0 +1,1 @@
+<annotation><filename>Strawberries-1080x772.jpg</filename><size><width>1080</width><height>772</height><depth>3</depth></size><object><name>ripe</name><bndbox><xmin>411</xmin><ymin>228</ymin><xmax>733</xmax><ymax>655</ymax></bndbox></object><object><name>ripe</name><bndbox><xmin>159</xmin><ymin>137</ymin><xmax>497</xmax><ymax>586</ymax></bndbox></object></annotation>
